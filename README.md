@@ -7,9 +7,9 @@
 ### 4. clf4: ResNet18
 
 ## Datasets
-### 1. Dataset1: [Color Classification](https://www.kaggle.com/datasets/ayanzadeh93/color-classification/code)
-### 2. Dataset2: [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?resource=download)
-### 3. Dataset3: My cat or Not my cat - self-made dataset
+### 1. Dataset1: [Color Classification](https://www.kaggle.com/datasets/ayanzadeh93/color-classification/code) (image dataset)
+### 2. Dataset2: [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?resource=download) (non-image dataset)
+### 3. Dataset3: My cat or Not my cat (self-made dataset)
 
 ## Usage
 ### 1. Clone Repository
