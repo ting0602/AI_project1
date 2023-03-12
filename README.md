@@ -14,6 +14,6 @@
 ## Usage
 ### 1. Clone Repository
 ```
-git clone git@github.com:ting0602/NYCU_ML_Final.git
+git clone git@github.com:ting0602/AI_project1.git
 ```
 ### 2. Run Codes in appendix
